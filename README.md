@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shorno532&label=Profile%20views&color=0e75b6&style=flat" alt="shorno532" /> </p>
 
-- 🔭 I’m currently working on **schizophenia disess detection Using CNN .Skin disease Detection Using Deep Learning**
+- 🔭 I’m currently working on **schizophenia disease detection Using CNN .Skin disease Detection Using Deep Learning**
 
 - 🌱 I’m currently learning **Data Science,Deep Learning,Machine Learning**
 
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shorno532](https://github.com/shorno532)
 
-- 💬 Ask me about **Deep Learning,Machine Learning**
+- 💬 Ask me about **IOT,Deep Learning,Machine Learning**
 
 - 📫 How to reach me **sharnaranidas.bubt@gmail.com**
 
