@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Sharna Rani Das</h1>
 <h3 align="center">I am a Researcher,programmer and learn many things!</h3>
